@@ -11,6 +11,9 @@
 * [acapela-group.com](https://www.acapela-group.com/voices/voice-banking/)
   * https://mov.acapela-group.com/wp-content/uploads/2022/02/upload-of-Custom-messages-procedure-February-2022.pdf
   * create an account at mymessagebanking.com 
+  * https://www.acapela-group.com/solutions/my-own-voice/
+-------
+
 
 * [Model Talker - modeltalker.org/](https://www.modeltalker.org/)
 
