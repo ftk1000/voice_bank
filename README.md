@@ -10,7 +10,8 @@
 * [acapela-group.com](https://www.acapela-group.com/voices/voice-banking/)
 * [Model Talker - modeltalker.org/](https://www.modeltalker.org/)
 
-* [play.cartesia.ai.](play.cartesia.ai.)
+* [play.cartesia.ai.](https://play.cartesia.ai.)
+* [ellevenlabs.io](https://ellevenlabs.io)
   
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
