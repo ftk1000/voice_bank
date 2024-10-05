@@ -1,5 +1,10 @@
 # [VOICE_BANK_FTK on G-Drive](https://drive.google.com/drive/folders/116i8Tv5if7SuHrXSBO6avX4Uj1ZuZ4z7?usp=drive_link)
 
+- several recorded *.WAV files in English
+- several recorded *.WAV files in  Tatar
+- several recorded *.WAV files in Russian
+- 
+
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
 **Creating a Synthetic Voice from Your Voice Bank Using Free Software**
