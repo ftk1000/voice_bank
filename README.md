@@ -10,6 +10,7 @@ To generate a synthetic voice from your recorded sentences, you can utilize seve
 
 ### **1. Coqui TTS**
 
+- https://docs.coqui.ai/en/latest/
 - **Description**: Coqui TTS is an open-source text-to-speech engine that enables you to train custom voice models using neural network architectures.
 - **Features**:
   - Supports single-speaker and multi-speaker models.
