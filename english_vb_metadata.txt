@@ -48,9 +48,6 @@
 48. The leaves are changing colors.
 49. I love the scent of fresh rain.
 50. The sunrise was breathtaking this morning.
-
-### **6. Travel and Directions**
-
 51. Turn right at the traffic light.
 52. The museum is two blocks ahead.
 53. We missed the last train.
@@ -61,9 +58,6 @@
 58. The taxi should arrive shortly.
 59. Do you have a map of the area?
 60. The airport is 30 minutes away.
-
-### **7. Food and Dining**
-
 61. I'll have the grilled salmon, please.
 62. Would you like some dessert?
 63. The soup needs a bit more salt.
@@ -74,9 +68,6 @@
 68. Can I get the check, please?
 69. The pasta is cooked al dente.
 70. She baked a chocolate cake for the party.
-
-### **8. Emotions and Feelings**
-
 71. I'm thrilled about the promotion.
 72. He felt anxious before the interview.
 73. They were delighted with the gift.
@@ -87,9 +78,6 @@
 78. They were overjoyed with the results.
 79. I feel confident about the presentation.
 80. She was relieved to hear the good news.
-
-### **9. Technology and Gadgets**
-
 81. My smartphone battery drains quickly.
 82. The computer needs a software update.
 83. She enjoys playing video games.
@@ -100,9 +88,6 @@
 88. He built his own custom PC.
 89. The GPS isn't working properly.
 90. I prefer reading on a tablet.
-
-### **10. Work and Professional Life**
-
 91. I'm attending a conference next week.
 92. She received a job offer yesterday.
 93. The meeting has been rescheduled.
@@ -113,8 +98,6 @@
 98. I'll send you the email shortly.
 99. They hired a new team member.
 100. Our company values innovation.
-
-### **11. Education and Learning**
 
 101. She's studying for her final exams.
 102. The lecture was very informative.
