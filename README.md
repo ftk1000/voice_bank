@@ -4,6 +4,10 @@
 - several recorded *.WAV files in  Tatar
 - several recorded *.WAV files in Russian
 - 
+# Vendors
+* [acapela-group.com](https://www.acapela-group.com/voices/voice-banking/)
+* [Model Talker - modeltalker.org/](https://www.modeltalker.org/)
+
 
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
