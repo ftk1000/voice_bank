@@ -3,12 +3,15 @@
 - several recorded *.WAV files in English
 - several recorded *.WAV files in  Tatar
 - several recorded *.WAV files in Russian
-- 
+
+
+
 # Vendors
 * [acapela-group.com](https://www.acapela-group.com/voices/voice-banking/)
 * [Model Talker - modeltalker.org/](https://www.modeltalker.org/)
 
-
+* [play.cartesia.ai.](play.cartesia.ai.)
+  
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
 **Creating a Synthetic Voice from Your Voice Bank Using Free Software**
