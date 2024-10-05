@@ -13,13 +13,12 @@
 * [play.cartesia.ai.](https://play.cartesia.ai.)
 * [elevenlabs.io](https://elevenlabs.io)
   
-# What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
-### **1. Coqui TTS**
-
-- https://docs.coqui.ai/en/latest/
-- https://github.com/coqui-ai/TTS
+# Free Software
+* https://docs.coqui.ai/en/latest/
+* https://github.com/coqui-ai/TTS
   
+# What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
 
 **Creating a Synthetic Voice from Your Voice Bank Using Free Software**
