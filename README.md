@@ -15,6 +15,13 @@
   
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
+### **1. Coqui TTS**
+
+- https://docs.coqui.ai/en/latest/
+- https://github.com/coqui-ai/TTS
+  
+
+
 **Creating a Synthetic Voice from Your Voice Bank Using Free Software**
 
 To generate a synthetic voice from your recorded sentences, you can utilize several free and open-source software tools. These tools allow you to train custom text-to-speech (TTS) models using your own voice recordings. Below are some options to consider:
