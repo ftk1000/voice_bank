@@ -1,4 +1,4 @@
-# voice_bank
+# [VOICE_BANK_FTK on G-Drive](https://drive.google.com/drive/folders/116i8Tv5if7SuHrXSBO6avX4Uj1ZuZ4z7?usp=drive_link)
 
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
