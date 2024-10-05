@@ -11,7 +11,7 @@
 * [Model Talker - modeltalker.org/](https://www.modeltalker.org/)
 
 * [play.cartesia.ai.](https://play.cartesia.ai.)
-* [ellevenlabs.io](https://ellevenlabs.io)
+* [elevenlabs.io](https://elevenlabs.io)
   
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
