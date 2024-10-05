@@ -125,6 +125,8 @@ Creating a voice bank is a proactive step to preserve your vocal identity. By fo
 
 # **Voice Bank Recording Script**
 
+## Generate Voice Bank Recording Script with 1000 sentences different from the ones you used above
+
 Creating a voice bank involves recording a variety of phrases that cover a wide range of sounds, words, and speech patterns. This helps the voice synthesis software accurately replicate your natural speaking voice. Below is a comprehensive script you can use for your voice bank recording.
 
 ---
