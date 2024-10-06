@@ -12,6 +12,32 @@
   * https://mov.acapela-group.com/wp-content/uploads/2022/02/upload-of-Custom-messages-procedure-February-2022.pdf
   * create an account at mymessagebanking.com 
   * https://www.acapela-group.com/solutions/my-own-voice/
+    
+```
+mov-information@acapela-group.com
+to me, mov-information, nicolas.mazars
+
+Dear Farid Khafizov
+The account creation request has been approved. Please, find your account information here under.
+---------------------------------------------------------------------------------
+Website: https://mov.acapela-group.com
+Login: FaridKhafizov
+Pass: ***
+---------------------------------------------------------------------------------
+Please read carefully the FAQ page before starting a recording: https://mov.acapela-group.com/faq/
+Do not hesitate to add your own custom messages (up to 300) for more personal meaning with your synthetic voice.
+Read the manual before you start you recordings.
+We also asked you to use an external microphone (also run the calibrating).
+
+You may receive other email notifications as you progress through the synthetic voice creation progress.
+Pease check your spam or bulk email folder in case those emails are sent there.
+Should you have any questions, do not hesitate to contact us.
+
+Acapela Group
+my-own-voice team
+mov-information@acapela-group.com
+```
+
 -------
 
 
@@ -24,7 +50,21 @@
 # Free Software
 * https://docs.coqui.ai/en/latest/
 * https://github.com/coqui-ai/TTS
-  
+
+
+# Apple's MAC
+
+* Accessability -> Perosonal Voice -> 150 phrases (takes ~40-60 min to speak, and 12-18 hours to train)
+* Accessability -> Live Speech = ON -> System Speech Lang = ENGLISH  +  Voice = Paul's Personal Voice2
+* Accessability -> Live Speech = ON -> System Speech Lang = RUSSIAN  +  Voice = Use System Voice
+* Q1: How to make Personal Voice in RUSSIAN?  ( I see only two options: ENGL and CHINESE )
+* Q2: When I renamed "Paul's Personal Voice2" to "Farid's" it stopped working. Why?
+* Q3: How to make "Paul's Personal Voice2" to work on all my devices: iPhone15 and iPad?
+* Q4: How to make "Paul's Personal Voice2" to work on MacMini?
+* Q5: I exported recordings to My Documents -> "Paul's Personal Voice2.zip" . Can this file be reused on other devices w/o trainig etc?
+
+
+
 # What free software or online service can I use to generate my synthetic voice from my voice bank, ie recorded sentences?
 
 
