@@ -52,7 +52,7 @@ mov-information@acapela-group.com
 * https://github.com/coqui-ai/TTS
 
 
-# Apple's MAC
+# Apple's MAC (help: 800-275-2273)
 
 * Accessability -> Perosonal Voice -> 150 phrases (takes ~40-60 min to speak, and 12-18 hours to train)
 * Accessability -> Live Speech = ON -> System Speech Lang = ENGLISH  +  Voice = Paul's Personal Voice2
