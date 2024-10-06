@@ -13,6 +13,8 @@
   * create an account at mymessagebanking.com 
   * https://www.acapela-group.com/solutions/my-own-voice/
     
+* https://mymessagebanking.com/messages
+  
 ```
 mov-information@acapela-group.com
 to me, mov-information, nicolas.mazars
