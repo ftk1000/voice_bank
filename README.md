@@ -54,7 +54,7 @@ mov-information@acapela-group.com
 
 # Apple's MAC (help: 800-275-2273)
 
-* Accessability -> Perosonal Voice -> 150 phrases (takes ~40-60 min to speak, and 12-18 hours to train)
+* Accessability -> Personal Voice -> 150 phrases (takes ~40-60 min to speak, and 12-18 hours to train)
 * Accessability -> Live Speech = ON -> System Speech Lang = ENGLISH  +  Voice = Paul's Personal Voice2
 * Accessability -> Live Speech = ON -> System Speech Lang = RUSSIAN  +  Voice = Use System Voice
 * Q1: How to make Personal Voice in RUSSIAN?  ( I see only two options: ENGL and CHINESE )
